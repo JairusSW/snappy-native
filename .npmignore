@@ -1,3 +1,5 @@
 prebuilds
 node_modules
 build
+deps
+.nyc_output
