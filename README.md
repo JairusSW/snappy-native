@@ -25,3 +25,7 @@ const uncompressed = snappy.uncompress(compressed)
 console.log('Uncompressed: ', uncompressed.toString())
 //==> Hello World
 ```
+
+#### Pure Javascript
+
+**snappy-pure** Implements Snappy In Pure JavaScript
