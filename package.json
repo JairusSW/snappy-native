@@ -1,0 +1,30 @@
+{
+  "name": "node-snappy",
+  "version": "4.6.0",
+  "description": "Google Snappy Compression In Native Bindings.",
+  "main": "index.js",
+  "scripts": {
+    "install": "prebuild-install || node-gyp rebuild"
+  },
+  "keywords": [
+    "snappy",
+    "google",
+    "compression",
+    "native",
+    "c++",
+    "binary",
+    "binding"
+  ],
+  "author": "JairusSW",
+  "license": "MIT",
+  "dependencies": {
+    "bindings": "^1.3.1",
+    "nan": "^2.14.1",
+    "prebuild-install": "^6.0.0"
+  },
+  "gypfile": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SliceWire/node-snappy/"
+  }
+}
