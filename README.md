@@ -1,19 +1,19 @@
 
-# Node-Snappy
-![npm](https://img.shields.io/npm/dt/node-snappy?style=flat-square) ![npm](https://img.shields.io/npm/v/node-snappy?style=flat-square) ![NPM](https://img.shields.io/npm/l/node-snappy?style=flat-square)
+# Snappy Native
+![npm](https://img.shields.io/npm/dt/snappy-native?style=flat-square) ![npm](https://img.shields.io/npm/v/snappy-native?style=flat-square) ![NPM](https://img.shields.io/npm/l/snappy-native?style=flat-square)
 
 **Google Snappy Running In Native Bindings**
 
-[GitHub](https://nodei.co/npm/node-snappy/)
+[GitHub](https://nodei.co/npm/snappy-native/)
 
 #### Installation
 ```bash
-~ npm install node-snappy --save
+~ npm install snappy-native --save
 ```
 
 #### Usage
 ```js
-const snappy = require('node-snappy')
+const snappy = require('snappy-native')
 
 const compressed = snappy.compress('Hello World')
 
