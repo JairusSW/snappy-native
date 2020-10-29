@@ -8,7 +8,7 @@
   },
   "binary": {
     "module_name": "snappy-native",
-    "module_path": "./build/Release/",
+    "module_path": "./build/",
     "host": "https://github.com/SliceWire/snappy-native/releases/download/",
     "remote_path": "{version}"
   },
