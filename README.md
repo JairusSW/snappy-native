@@ -4,7 +4,7 @@
 
 **Google Snappy Running In Native Bindings**
 
-[GitHub](https://nodei.co/npm/snappy-native/)
+[![NPM](https://nodei.co/npm/snappy-native.png?downloads=true&downloadRank=true&stars=true&compact=true)](https://nodei.co/npm/snappy-native/)
 
 #### Installation
 ```bash
