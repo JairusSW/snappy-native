@@ -1,6 +1,6 @@
 {
   "name": "snappy-native",
-  "version": "4.6.3",
+  "version": "4.6.4",
   "description": "Google Snappy Compression In Native Bindings.",
   "main": "index.js",
   "scripts": {
