@@ -1,6 +1,6 @@
 {
   "name": "snappy-native",
-  "version": "4.6.2",
+  "version": "4.6.3",
   "description": "Google Snappy Compression In Native Bindings.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "binary": {
     "module_name": "snappy-native",
-    "module_path": "./build/",
+    "module_path": "./build/Release",
     "host": "https://github.com/SliceWire/snappy-native/releases/download/",
     "remote_path": "{version}"
   },
