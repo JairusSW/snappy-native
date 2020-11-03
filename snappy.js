@@ -1,5 +1,5 @@
 // @ts-check
-var binding = require('bindings')('binding');
+var binding = require('node-gyp-build')(__dirname)
 var assert = require('assert');
 
 /**

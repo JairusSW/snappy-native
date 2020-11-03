@@ -1,7 +1,7 @@
 {
   'targets': [
     {
-      'target_name': 'binding',
+      'target_name': 'snappy-native',
       'includes': [ 'deps/snappy/common.gypi' ],
       'include_dirs': [ '<!(node -e "require(\'nan\')")', 'deps/snappy/<(os_include)' ],
       'dependencies': [ 'deps/snappy/snappy.gyp:snappy' ],
